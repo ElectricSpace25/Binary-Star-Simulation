@@ -1,4 +1,4 @@
-Binary star simulation created as a final project for an astronomy class. Uses Processing for Java. Hopefully physics accurate.
+Binary star simulation created as a final project for an astronomy class. Uses Processing for Java. Hopefully physics accurate, though it breaks down at the highest timestep.
 
 Huge shoutout to [this video](https://youtu.be/Ukkr0v7ks54) for helping with the math for the model.
 
